@@ -17,4 +17,4 @@ Create an audio indo song with Matlab
 [Source Code](https://github.com/maulanaakbardj/Audio_Matlab/blob/99abf50dce0cd0adf67fb75ee48b91225a463432/code/pmdtng.m)
 
 # Result
-![alt text](https://github.com/maulanaakbardj/Audio_Matlab/blob/99abf50dce0cd0adf67fb75ee48b91225a463432/result/PamanDatang.wav)
+[Audio .Wav](https://github.com/maulanaakbardj/Audio_Matlab/blob/99abf50dce0cd0adf67fb75ee48b91225a463432/result/PamanDatang.wav)
